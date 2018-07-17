@@ -18,5 +18,4 @@ public class Calculator {
     public long dividir(long a, long b){
         return a / b;
     }
-
 }
